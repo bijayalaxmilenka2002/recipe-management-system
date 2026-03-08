@@ -17,7 +17,7 @@ A full-stack web application for managing and discovering recipes, built with th
 * MySQL Server running
 
 ##  Setup
-1. Clone the repo: `git clone <your-repo-link>`
+1.1. Clone the repo: `git clone https://github.com/bijayalaxmilenka2002/recipe-management-system.git`
 2. Install dependencies: `npm install`
 3. Configure your database in `db.js`
 4. Start the server: `node index.js`
